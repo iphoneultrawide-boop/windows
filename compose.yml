@@ -6,7 +6,7 @@ services:
   DISK_SIZE: "512G"
   RAM_SIZE: "16G"
   CPU_CORES: "5"
-  VERSION: "10"
+  VERSION: "vu"
     devices:
       - /dev/kvm
       - /dev/net/tun
